@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/131194211/233721888-1340ed4d-aca0-4169-bba1-459cdb9c62e3.png)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5DC52B&center=true&vCenter=true&width=435&lines=Welcome+to+my+page!;It's+nice+meeting+you!)](https://git.io/typing-svg)
 
 
 - 🔭 I’m currently studying at Ulbra
@@ -7,4 +7,6 @@
 
 
 
-            [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ClaudeBitencourt)](https://git.io/streak-stats)
+
+
+
