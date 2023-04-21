@@ -3,3 +3,4 @@
 
 - 🔭 I’m currently studying at Ulbra
 - 😄 Pronouns: He/him 
+- :yellow_heart: Remember: You are what you bring into the world!
